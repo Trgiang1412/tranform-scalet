@@ -1,0 +1,385 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(img/1.jpg);
+    background-size: cover;
+    height: auto;
+    font: "Lato", Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.suggadaddy {
+    margin-left: 530px;
+    margin-top: 50px;
+}
+
+
+/* ............................................................... */
+
+.master {
+    position: relative;
+    border: 1px solid black;
+    width: 300px;
+    height: 533px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: -1px 15px 30px -12px black;
+    border: none;
+}
+
+.img-barbarian {
+    background-image: url(img/barbarian-bg.jpg);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 250px;
+}
+
+.ac {
+    position: relative;
+    width: 400px;
+    top: -65px;
+    left: -70px;
+    z-index: 3;
+}
+
+.quest {
+    position: absolute;
+    text-align: center;
+    background: #f5f6fa;
+    box-sizing: border-box;
+    height: 200px;
+    z-index: 2;
+}
+
+.lv-1 {
+    color: #e67e22;
+    margin-top: 20px;
+}
+
+.text-1 {
+    color: #7f8c8d;
+}
+
+.flex {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    width: 300px;
+    bottom: 0;
+    justify-content: center;
+    background: #f39c12;
+    height: 98px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.number-2 {
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.number-1 {
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-right: 1px solid #e67e22;
+    margin-right: auto;
+}
+
+.a-1 {
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+
+.master:hover {
+    transform: scale(1.1, 1.1);
+    transition: 0.5s;
+}
+
+
+/* ............................................................ */
+
+.master-1 {
+    position: relative;
+    border: 1px solid black;
+    width: 300px;
+    height: 550px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: -1px 15px 30px -12px black;
+    border: none;
+    margin-top: 100px;
+}
+
+.img-acher {
+    background-image: url(img/archer-bg.jpg);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 250px;
+}
+
+.ac-1 {
+    position: relative;
+    width: 400px;
+    top: -65px;
+    left: -70px;
+    z-index: 3;
+}
+
+.quest-1 {
+    position: absolute;
+    text-align: center;
+    background: #f5f6fa;
+    box-sizing: border-box;
+    height: 200px;
+    z-index: 2;
+}
+
+.lv-2 {
+    color: #e67e22;
+    margin-top: 20px;
+}
+
+.text-2 {
+    color: #7f8c8d;
+}
+
+.flex-1 {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    width: 300px;
+    bottom: 0;
+    justify-content: center;
+    background: #f39c12;
+    height: 98px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.master-1:hover {
+    transform: scale(1.1, 1.1);
+    transition: 0.5s;
+}
+
+
+/* ......................................................... */
+
+
+/* ..................................................................... */
+
+.master-2 {
+    position: relative;
+    border: 1px solid black;
+    width: 300px;
+    height: 550px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: -1px 15px 30px -12px black;
+    margin-top: 400px;
+    border: none;
+}
+
+.img-giant {
+    background-image: url(img/giant-bg.jpg);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 250px;
+}
+
+.ac-2 {
+    position: relative;
+    width: 400px;
+    top: -65px;
+    left: -70px;
+    z-index: 3;
+}
+
+.quest-2 {
+    position: absolute;
+    text-align: center;
+    background: #f5f6fa;
+    box-sizing: border-box;
+    height: 200px;
+    z-index: 2;
+}
+
+.lv-3 {
+    color: #e67e22;
+    margin-top: 20px;
+}
+
+.text-3 {
+    color: #7f8c8d;
+}
+
+.flex-2 {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    width: 300px;
+    bottom: 0;
+    justify-content: center;
+    background: #f39c12;
+    height: 98px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.a-1 {
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+
+.master-2:hover {
+    transform: scale(1.1, 1.1);
+    transition: 0.5s;
+}
+
+
+/* ............................................................................. */
+
+.master-3 {
+    position: relative;
+    border: 1px solid black;
+    width: 300px;
+    height: 550px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: -1px 15px 30px -12px black;
+    margin-top: 150px;
+    border: none;
+}
+
+.img-goblin {
+    background-image: url(img/giant-bg.jpg);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 250px;
+}
+
+.ac-3 {
+    position: relative;
+    width: 400px;
+    top: -65px;
+    left: -70px;
+    z-index: 3;
+}
+
+.quest-3 {
+    position: absolute;
+    text-align: center;
+    background: #f5f6fa;
+    box-sizing: border-box;
+    height: 200px;
+    z-index: 2;
+}
+
+.lv-4 {
+    color: #e67e22;
+    margin-top: 20px;
+}
+
+.text-4 {
+    color: #7f8c8d;
+}
+
+.flex-3 {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    width: 300px;
+    bottom: 0;
+    justify-content: center;
+    background: #f39c12;
+    height: 98px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.a-1 {
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+
+.master-3:hover {
+    transform: scale(1.1, 1.1);
+    transition: 0.5s;
+}
+
+
+/* .............................................................................................. */
+
+.master-4 {
+    position: relative;
+    border: 1px solid black;
+    width: 300px;
+    height: 550px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: -1px 15px 30px -12px black;
+    margin-top: 150px;
+    border: none;
+    margin-bottom: 100px;
+}
+
+.img-wizad {
+    background-image: url(img/giant-bg.jpg);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 250px;
+}
+
+.ac-4 {
+    position: relative;
+    width: 400px;
+    top: -65px;
+    left: -70px;
+    z-index: 3;
+}
+
+.quest-4 {
+    position: absolute;
+    text-align: center;
+    background: #f5f6fa;
+    box-sizing: border-box;
+    height: 200px;
+    z-index: 2;
+}
+
+.lv-5 {
+    color: #e67e22;
+    margin-top: 20px;
+}
+
+.text-5 {
+    color: #7f8c8d;
+}
+
+.flex-4 {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    width: 300px;
+    bottom: 0;
+    justify-content: center;
+    background: #f39c12;
+    height: 98px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.a-1 {
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+
+.master-4:hover {
+    transform: scale(1.05, 1.05);
+    transition: 0.5s;
+}
