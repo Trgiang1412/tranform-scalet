@@ -181,7 +181,7 @@ body {
     box-sizing: border-box;
     border-radius: 15px;
     box-shadow: -1px 15px 30px -12px black;
-    margin-top: 400px;
+    margin-top: 100px;
     border: none;
 }
 
@@ -380,6 +380,6 @@ body {
 }
 
 .master-4:hover {
-    transform: scale(1.05, 1.05);
+    transform: scale(1.1, 1.1);
     transition: 0.5s;
 }
